@@ -3,6 +3,7 @@ pluginManagement {
         mavenCentral()
         gradlePluginPortal()
     }
+
 }
 
 rootProject.name = "plugin"
